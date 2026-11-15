@@ -1,0 +1,7 @@
+schema_version: 1
+# A cronologia ordena IDs de eventos definidos em eventos.yaml.
+# Pode usar ordem relativa quando datas exatas forem desconhecidas.
+sequencia:
+  - evento_id: EVT-001
+    ordem_relativa: 1
+    momento: PENDENTE

@@ -1,0 +1,10 @@
+schema_version: 1
+eventos:
+  - id: EVT-001
+    nivel: ancora # ancora | compartilhado | individual
+    descricao_objetiva: PENDENTE
+    participantes: [] # CHR-...
+    fatos_estabelecidos: []
+    alegacoes_nao_confirmadas: []
+    pontos_indeterminados: []
+    observacoes_continuidade: []

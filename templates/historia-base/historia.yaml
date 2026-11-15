@@ -1,0 +1,12 @@
+schema_version: 1
+id: HIST-PENDENTE
+slug: PENDENTE
+titulo_trabalho: PENDENTE
+status: planejamento # planejamento | roteiro | revisao | aprovado
+origem: reddit # para piloto fictício: original_ficticia
+genero_principal: drama
+premissa: PENDENTE
+evento_ancora_id: EVT-001
+perspectiva_principal_id: POV-001
+perspectivas: [] # IDs e caminhos, definidos conforme personagens relevantes
+observacoes: []

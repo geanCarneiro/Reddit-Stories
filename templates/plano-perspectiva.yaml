@@ -1,0 +1,14 @@
+schema_version: 1
+id: POV-PENDENTE
+personagem_id: CHR-PENDENTE
+tipo: adicional_ficcional # principal_fiel | adicional_ficcional
+titulo_trabalho: PENDENTE
+proposta_narrativa: PENDENTE
+recorte_temporal: PENDENTE
+referencias_eventos: [EVT-001]
+cenas_compartilhadas: []
+informacoes_reveladas: []
+omissoes_intencionais: []
+contradicoes_intencionais: []
+arco_e_desfecho: PENDENTE
+status: planejamento

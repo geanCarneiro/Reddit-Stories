@@ -1,0 +1,35 @@
+# Saídas pesadas e transitórias
+**/output/
+**/outputs/
+**/renders/
+**/cache/
+**/.cache/
+**/temp/
+**/tmp/
+**/media/
+**/audio/
+**/video/
+**/models/
+**/weights/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.mkv
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+# Segredos e ambiente
+.env
+.env.*
+!.env.example
+**/secrets/
+# Ambiente de desenvolvimento
+.venv/
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db

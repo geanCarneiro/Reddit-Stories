@@ -1,0 +1,25 @@
+schema_version: 1
+id: CHR-PENDENTE
+nome: PENDENTE
+papel_no_conflito: PENDENTE
+relacoes: []
+objetivos_e_motivacoes: []
+tracos_de_personalidade: []
+linguagem:
+  vocabulario: PENDENTE
+  formalidade: PENDENTE
+  habitos_de_fala: []
+identidade_vocal_narrativa:
+  idade_aparente: PENDENTE
+  timbre: PENDENTE
+  textura: PENDENTE
+  ritmo: PENDENTE
+  sotaque: PENDENTE
+  observacoes: []
+conhecimento:
+  presenciou_eventos: []
+  soube_por_terceiros: []
+  acredita: []
+  desconhece: []
+  pode_omitir: []
+voice_profile_id: null # identidade reutilizável, não configuração de motor TTS
